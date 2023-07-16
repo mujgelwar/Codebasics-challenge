@@ -1,0 +1,1 @@
+SELECT * FROM project.fact_survey_responses;
